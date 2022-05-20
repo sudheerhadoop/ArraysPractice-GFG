@@ -1,3 +1,5 @@
+/** Sliding window pattern. take start and end and slide start until the current sum greater than given sum. **/
+
 class Solution
 {
     //Function to find a continuous sub-array which adds up to a given number.
