@@ -1,3 +1,4 @@
+/** take temp array store all positive elements first then store all negative elements finally copy the temp array to original array **/
 class Solution {
     
     public void segregateElements(int arr[], int n)
