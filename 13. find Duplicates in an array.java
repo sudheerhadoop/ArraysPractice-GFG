@@ -1,3 +1,5 @@
+/** Using hashing of the same array **/
+
 class Solution {
     public static ArrayList<Integer> duplicates(int arr[], int n) {
         // code here
