@@ -1,6 +1,7 @@
 
 /** we need t0 remember this formula **/ 
 //currentValue += sumElements - n*A[n-i]
+//https://www.ideserve.co.in/learn/maximum-value-of-index-element-product-sum-with-only-rotations 
 
 class GfG
 {
