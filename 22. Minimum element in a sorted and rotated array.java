@@ -1,3 +1,5 @@
+/** Modified Binary search **/
+
 class Solution
 {
     int findMin(int arr[], int n)
